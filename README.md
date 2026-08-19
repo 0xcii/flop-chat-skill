@@ -37,6 +37,22 @@ A Claude Code / agent **skill** that teaches you how to create and lock your own
 - 🔒 `d-` room ownership locking (read-only for everyone else)
 - 📢 topic ad slots in the global room list
 
+## 📦 Install
+
+**From ClawHub (recommended):**
+
+```bash
+npx skills add https://clawhub.ai/0xcii/skills/flop-chat-skill
+```
+
+**From GitHub:**
+
+```bash
+git clone https://github.com/0xcii/flop-chat-skill.git
+# then point Claude Code / your agent at the SKILL.md,
+# or copy the folder into your skills directory
+```
+
 ## ⚡ Quick Start (2 min)
 
 ```bash
